@@ -1,14 +1,14 @@
 {"music" : 
 [ 
-	{ "title" : "يونس",
-	  "album" : "Jazz & Blues",
-	  "artist" : "Media Right Productions",
-	  "genre" : "البوم يونس",
+	{ "title" : "youness",
+	  "album" : "mosik iraq",
+	  "artist" : "Media Right",
+	  "genre" : "alubom youness",
 	  "source" : "http://ss1.sm3na.com/1541/Sm3na_com_47617.mp3",
 	  "image" : "http://awtarmp3.com/uploads/singers/gafr_alghzal.png",
 	  "trackNumber" : 1,
 	  "totalTrackCount" : 6,
 	  "duration" : 103,
-	  "site" : ""
+	  "site" : "http://awtarmp3.com/uploads/singers/gafr_alghzal.png"
 	}
 ]}
