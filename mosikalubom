@@ -13,18 +13,5 @@
 	  "site" : "http://awtarmp3.com/uploads/singers/gafr_alghzal.png"
 	}
 ]
-"musicc" : 
-[ 
-	{ "title" : "جعفر الغزالfff",
-	  "album" : "البوم جعفر الغزالfff",
-	  "artist" : "خلصني منهمffff ",
-	  "genre" : "اغاني عراقيهffff",
-	  "source" : "http://ss1.sm3na.com/1541/Sm3na_com_47617.mp3",
-	  "image" : "http://awtarmp3.com/uploads/singers/gafr_alghzal.png",
-	  "trackNumber" : 1,
-	  "totalTrackCount" : 1,
-	  "duration" : 103,
-	  "site" : "http://awtarmp3.com/uploads/singers/gafr_alghzal.png"
-	}
-]
+
 }
