@@ -8,7 +8,9 @@
       "title": "title",
       "ting_uid": "2517 ting_uid",
       "album_title": "album title",
-      "artist_name": "artist name"
+      "artist_name": "artist name",
+       "file_duration": 364,
+    "file_link": "http://ms16.sm3na.com/131/Sm3na_com_47437.mp3"
     },
     {
       "pic_big": "https://jlmod.net/upload/items/42661512257677.jpg",
@@ -18,7 +20,9 @@
       "title": "title YOUNESS",
       "ting_uid": "2517 ting_uid",
       "album_title": "album title",
-      "artist_name": "artist name"
+      "artist_name": "artist name",
+       "file_duration": 364,
+    "file_link": "http://ss1.sm3na.com/1541/Sm3na_com_47617.mp3"
     },
     {
       "pic_big": "https://jlmod.net/upload/items/42661512257677.jpg",
@@ -28,7 +32,9 @@
       "title": "title YOUNESS 2",
       "ting_uid": "2517 ting_uid",
       "album_title": "album title",
-      "artist_name": "artist name"
+      "artist_name": "artist name",
+       "file_duration": 364,
+    "file_link": "http://ss1.sm3na.com/1541/Sm3na_com_47611.mp3"
     }
   ],
   "billboard": {
