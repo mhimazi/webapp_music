@@ -1,0 +1,25 @@
+{
+  "song_list": [
+    {
+      "pic_big": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/ee6432f2ef6420d0632cb897f3f0f7fb\\/566871160\\/566871160.jpg@s_1,w_150,h_150",
+      "pic_small": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/ee6432f2ef6420d0632cb897f3f0f7fb\\/566871160\\/566871160.jpg@s_1,w_90,h_90",
+      "lrclink": "http:\\/\\/musicdata.baidu.com\\/data2\\/lrc\\/6ce9fb402254c7173f495bec7f855fbb\\/566879821\\/566879821.lrc",
+      "song_id": "song id",
+      "title": "title",
+      "ting_uid": "2517 ting_uid",
+      "album_title": "album title",
+      "artist_name": "artist name"
+    }
+  ],
+  "billboard": {
+    "update_date": "2017-12-11",
+    "name": "name",
+    "comment": "comment",
+    "pic_s640": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/f7246b600c33874495c4d089530fd9f9d62aa0c6.jpg",
+    "pic_s444": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/78310a55b319ebc4845c84eb8026cffc1e17169f.jpg",
+    "pic_s260": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/e850352ac65c1038cb0f3cb0b0119313b07e894b.jpg",
+    "pic_s210": "http:\\/\\/business.cdn.qianqian.com\\/qianqian\\/pic\\/bos_client_c49310115801d43d42a98fdc357f6057.jpg"
+
+  },
+  "error_code": 22000
+}
