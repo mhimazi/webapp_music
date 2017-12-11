@@ -1,17 +1,17 @@
 {
  
   "bitrate": {
-   "song_id": "1",
+   "song_idd": "1",
     "file_duration": 364,
     "file_link": "http://ms16.sm3na.com/131/Sm3na_com_47437.mp3"
    },
    "bitrate": {
-   "song_id": "2",
+   "song_idd": "2",
     "file_duration": 264,
     "file_link": "http://ms16.sm3na.com/131/Sm3na_com_47437.mp3"
    },
    "bitrate": {
-   "song_id": "3",
+   "song_idd": "3",
     "file_duration": 164,
     "file_link": "http://ms16.sm3na.com/131/Sm3na_com_47437.mp3"
    }
