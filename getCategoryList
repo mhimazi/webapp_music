@@ -1,0 +1,407 @@
+{
+  "error_code": 22000,
+  "result": [
+    {
+      "title": "\\u516c\\u5171\\u9891\\u9053",
+      "cid": 1,
+      "channellist": [
+        {
+          "name": "\\u6f2b\\u6b65\\u6625\\u5929",
+          "channelid": "62",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/838ba61ea8d3fd1fb4912e42354e251f95ca5f2a.jpg",
+          "ch_name": "public_tuijian_spring",
+          "value": 1000000,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u79cb\\u65e5\\u79c1\\u8bed",
+          "channelid": "63",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/b3119313b07eca80b93485cf932397dda14483e1.jpg",
+          "ch_name": "public_tuijian_autumn",
+          "value": 1000000,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6e29\\u6696\\u51ac\\u65e5",
+          "channelid": "61",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/eac4b74543a9822659d378408982b9014a90eb43.jpg",
+          "ch_name": "public_tuijian_winter",
+          "value": 36,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u70ed\\u6b4c",
+          "channelid": "58",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/30adcbef76094b36a098488aa0cc7cd98d109d4a.jpg",
+          "ch_name": "public_tuijian_rege",
+          "value": 3,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "KTV\\u91d1\\u66f2",
+          "channelid": "45",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/728da9773912b31b106b9e4e8518367adab4e156.jpg",
+          "ch_name": "public_tuijian_ktv",
+          "value": 4,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "Billboard",
+          "channelid": "55",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/a2cc7cd98d1001e92b3c4768bb0e7bec54e79750.jpg",
+          "ch_name": "public_tuijian_billboard",
+          "value": 20,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6210\\u540d\\u66f2",
+          "channelid": "48",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/838ba61ea8d3fd1f0b0bf15d334e251f95ca5f52.jpg",
+          "ch_name": "public_tuijian_chengmingqu",
+          "value": 5,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u7f51\\u7edc\\u6b4c\\u66f2",
+          "channelid": "51",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/29381f30e924b8991a462a5f6d061d950a7bf65b.jpg",
+          "ch_name": "public_tuijian_wangluo",
+          "value": 9,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u5f00\\u8f66",
+          "channelid": "42",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/d439b6003af33a871d2b537dc55c10385343b517.jpg",
+          "ch_name": "public_tuijian_kaiche",
+          "value": 21,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u5f71\\u89c6",
+          "channelid": "57",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/0e2442a7d933c89550c6cb1cd21373f082020018.jpg",
+          "ch_name": "public_tuijian_yingshi",
+          "value": 31,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u968f\\u4fbf\\u542c\\u542c",
+          "channelid": "1",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/8b13632762d0f7035531c6bb0bfa513d2797c5d2.jpg",
+          "ch_name": "public_tuijian_suibiantingting",
+          "value": 12,
+          "cate_name": "tuijian",
+          "cate_sname": "\\u63a8\\u8350\\u9891\\u9053"
+        },
+        {
+          "name": "\\u7ecf\\u5178\\u8001\\u6b4c",
+          "channelid": "3",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/060828381f30e9240a58cf564f086e061c95f7dd.jpg",
+          "ch_name": "public_shiguang_jingdianlaoge",
+          "value": 2,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "70\\u540e",
+          "channelid": "43",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/4ec2d5628535e5ddf8d5f6b875c6a7efcf1b62df.jpg",
+          "ch_name": "public_shiguang_70hou",
+          "value": 25,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "80\\u540e",
+          "channelid": "2",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/6a63f6246b600c3367818daf194c510fd8f9a1d9.jpg",
+          "ch_name": "public_shiguang_80hou",
+          "value": 7,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "90\\u540e",
+          "channelid": "25",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/242dd42a2834349be8ae3de2caea15ce36d3be29.jpg",
+          "ch_name": "public_shiguang_90hou",
+          "value": 10,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "\\u706b\\u7206\\u65b0\\u6b4c",
+          "channelid": "6",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/0e2442a7d933c8955088cb1cd21373f0830200e6.jpg",
+          "ch_name": "public_shiguang_xinge",
+          "value": 15,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "\\u513f\\u6b4c",
+          "channelid": "24",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/b151f8198618367a7e792cba2d738bd4b21ce5e1.jpg",
+          "ch_name": "public_shiguang_erge",
+          "value": 34,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "\\u65c5\\u884c",
+          "channelid": "16",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/dbb44aed2e738bd41bcce156a28b87d6267ff9ec.jpg",
+          "ch_name": "public_shiguang_lvxing",
+          "value": 35,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "\\u591c\\u5e97",
+          "channelid": "41",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/024f78f0f736afc3f7176d02b019ebc4b74512b9.jpg",
+          "ch_name": "public_shiguang_yedian",
+          "value": 17,
+          "cate_name": "shiguang",
+          "cate_sname": "\\u65f6\\u5149\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6d41\\u884c",
+          "channelid": "46",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/8ad4b31c8701a18b2dfa40289d2f07082838fe40.jpg",
+          "ch_name": "public_fengge_liuxing",
+          "value": 6,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6447\\u6eda",
+          "channelid": "10",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/1f178a82b9014a906c3514daaa773912b31bee4a.jpg",
+          "ch_name": "public_fengge_yaogun",
+          "value": 24,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6c11\\u8c23",
+          "channelid": "60",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/d833c895d143ad4b536214a781025aafa40f060c.jpg",
+          "ch_name": "public_fengge_minyao",
+          "value": 33,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u8f7b\\u97f3\\u4e50",
+          "channelid": "29",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/8b82b9014a90f603e8b3ce203a12b31bb051ed52.jpg",
+          "ch_name": "public_fengge_qingyinyue",
+          "value": 14,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u5c0f\\u6e05\\u65b0",
+          "channelid": "49",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/f703738da97739122dd1d706fb198618377ae2e6.jpg",
+          "ch_name": "public_fengge_xiaoqingxin",
+          "value": 23,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u4e2d\\u56fd\\u98ce",
+          "channelid": "53",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/d62a6059252dd42ac0e553cc003b5bb5c8eab8ed.jpg",
+          "ch_name": "public_fengge_zhongguofeng",
+          "value": 30,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "DJ\\u821e\\u66f2",
+          "channelid": "50",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/0824ab18972bd40743e88e9a78899e510fb309ad.jpg",
+          "ch_name": "public_fengge_dj",
+          "value": 11,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u7535\\u5f71",
+          "channelid": "38",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/cb8065380cd7912368c9c913ae345982b2b780a8.jpg",
+          "ch_name": "public_fengge_dianyingyuansheng",
+          "value": 29,
+          "cate_name": "fengge",
+          "cate_sname": "\\u98ce\\u683c\\u9891\\u9053"
+        },
+        {
+          "name": "\\u8f7b\\u677e\\u5047\\u65e5",
+          "channelid": "40",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/6c224f4a20a44623d811f7059b22720e0df3d7fa.jpg",
+          "ch_name": "public_xinqing_qingsongjiari",
+          "value": 18,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6b22\\u5feb\\u65cb\\u5f8b",
+          "channelid": "4",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/bf096b63f6246b60d111ef13e8f81a4c510fa2be.jpg",
+          "ch_name": "public_xinqing_huankuai",
+          "value": 11,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u751c\\u871c\\u611f\\u53d7",
+          "channelid": "17",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/c995d143ad4bd113f1d6ea5559afa40f4bfb05b9.jpg",
+          "ch_name": "public_xinqing_tianmi",
+          "value": 26,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u5bc2\\u5bde",
+          "channelid": "37",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/08f790529822720ed8dbbf9d78cb0a46f21fab44.jpg",
+          "ch_name": "public_xinqing_jimo",
+          "value": 27,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u5355\\u8eab\\u60c5\\u6b4c",
+          "channelid": "56",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/7acb0a46f21fbe09b1349e7368600c338744ad6b.jpg",
+          "ch_name": "public_xinqing_qingge",
+          "value": 28,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u8212\\u7f13\\u8282\\u594f",
+          "channelid": "11",
+          "thumb": "http:\\/\\/d.hiphotos.baidu.com\\/ting\\/pic\\/item\\/342ac65c103853430cadda469013b07eca808873.jpg",
+          "ch_name": "public_xinqing_shuhuan",
+          "value": 13,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6175\\u61d2\\u5348\\u540e",
+          "channelid": "19",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/5882b2b7d0a20cf437cea3b875094b36acaf997e.jpg",
+          "ch_name": "public_xinqing_yonglanwuhou",
+          "value": 22,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u4f24\\u611f",
+          "channelid": "36",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/e850352ac65c1038a52693a5b1119313b07e8979.jpg",
+          "ch_name": "public_xinqing_shanggan",
+          "value": 16,
+          "cate_name": "xinqing",
+          "cate_sname": "\\u5fc3\\u60c5\\u9891\\u9053"
+        },
+        {
+          "name": "\\u534e\\u8bed",
+          "channelid": "32",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/5ab5c9ea15ce36d33b50de5739f33a87e950b105.jpg",
+          "ch_name": "public_yuzhong_huayu",
+          "value": 1,
+          "cate_name": "yuzhong",
+          "cate_sname": "\\u8bed\\u79cd\\u9891\\u9053"
+        },
+        {
+          "name": "\\u6b27\\u7f8e",
+          "channelid": "33",
+          "thumb": "http:\\/\\/c.hiphotos.baidu.com\\/ting\\/pic\\/item\\/279759ee3d6d55fb785d2b416e224f4a20a4dd3a.jpg",
+          "ch_name": "public_yuzhong_oumei",
+          "value": 8,
+          "cate_name": "yuzhong",
+          "cate_sname": "\\u8bed\\u79cd\\u9891\\u9053"
+        },
+        {
+          "name": "\\u65e5\\u8bed",
+          "channelid": "34",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/8694a4c27d1ed21b66857382ae6eddc451da3f0c.jpg",
+          "ch_name": "public_yuzhong_riyu",
+          "value": 38,
+          "cate_name": "yuzhong",
+          "cate_sname": "\\u8bed\\u79cd\\u9891\\u9053"
+        },
+        {
+          "name": "\\u97e9\\u8bed",
+          "channelid": "44",
+          "thumb": "http:\\/\\/b.hiphotos.baidu.com\\/ting\\/pic\\/item\\/10dfa9ec8a136327ddd49e54928fa0ec08fac798.jpg",
+          "ch_name": "public_yuzhong_hanyu",
+          "value": 32,
+          "cate_name": "yuzhong",
+          "cate_sname": "\\u8bed\\u79cd\\u9891\\u9053"
+        },
+        {
+          "name": "\\u7ca4\\u8bed",
+          "channelid": "18",
+          "thumb": "http:\\/\\/a.hiphotos.baidu.com\\/ting\\/pic\\/item\\/d50735fae6cd7b89e7e067e40c2442a7d8330ecc.jpg",
+          "ch_name": "public_yuzhong_yueyu",
+          "value": 19,
+          "cate_name": "yuzhong",
+          "cate_sname": "\\u8bed\\u79cd\\u9891\\u9053"
+        }
+      ]
+    },
+    {
+      "title": "\\u97f3\\u4e50\\u4eba\\u9891\\u9053",
+      "cid": 3,
+      "channellist": [
+        {
+          "name": "\\u66f2\\u5a49\\u5a77",
+          "artistid": "10490649",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/246668364\\/246668364.jpg@s_0,w_120"
+        },
+        {
+          "name": "\\u5b59\\u71d5\\u59ff",
+          "artistid": "7",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/246709627\\/246709627.jpg@s_0,w_120"
+        },
+        {
+          "name": "\\u5f20\\u97f6\\u6db5",
+          "artistid": "77",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/246709988\\/246709988.jpg@s_0,w_120"
+        },
+        {
+          "name": "\\u82cf\\u6253\\u7eff",
+          "artistid": "774",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/f9234103ebd99b884236c784ae9984a1\\/301935725\\/301935725.jpg@s_0,w_120"
+        },
+        {
+          "name": "\\u9648\\u5955\\u8fc5",
+          "artistid": "87",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/af739e0109798366b9419230be5253ce\\/541222074\\/541222074.jpg@s_0,w_120"
+        },
+        {
+          "name": "\\u6c6a\\u5cf0",
+          "artistid": "256",
+          "avatar": "http:\\/\\/musicdata.baidu.com\\/data2\\/pic\\/246585885\\/246585885.jpg@s_0,w_120"
+        }
+      ]
+    }
+  ]
+}
